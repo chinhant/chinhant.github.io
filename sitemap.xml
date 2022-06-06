@@ -2,8 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/</loc><lastmod>2022-06-05T17:27:02&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc><lastmod>2022-06-05T17:27:02&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2022-06-05T17:27:02&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>https://chinhant.github.io/posts/the3/</loc><lastmod>2022-06-06T10:50:29&#43;08:00</lastmod></url><url>
+            <loc>https://chinhant.github.io/tags/nil/</loc><lastmod>2022-06-06T10:50:29&#43;08:00</lastmod></url><url>
+            <loc>https://chinhant.github.io/posts/</loc><lastmod>2022-06-06T10:50:29&#43;08:00</lastmod></url><url>
+            <loc>https://chinhant.github.io/tags/</loc><lastmod>2022-06-06T10:50:29&#43;08:00</lastmod></url><url>
+            <loc>https://chinhant.github.io/</loc><lastmod>2022-06-06T10:50:29&#43;08:00</lastmod></url><url>
+            <loc>https://chinhant.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc><lastmod>2022-06-05T17:27:02&#43;08:00</lastmod></url><url>
+            <loc>https://chinhant.github.io/categories/</loc></url></urlset>
